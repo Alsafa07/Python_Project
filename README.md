@@ -37,7 +37,7 @@ This project presents a comprehensive data analysis on global methane emissions 
 
 ---
 
-## 📌 Sample Insights
+## 📌 Insights
 
 - Asia Pacific leads emissions in both **Energy** and **Agriculture**  
 - North America and Russia show high **Energy sector** emissions  
