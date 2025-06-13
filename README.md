@@ -1,4 +1,3 @@
-
 # 🌍 Methane Emissions Analysis with Python
 
 This project presents a comprehensive data analysis on global methane emissions using the IEA dataset. It leverages **Pandas**, **NumPy**, and **Matplotlib** to explore regional and sector-wise emissions, identify top sources, visualize trends, and propose targeted solutions for reducing methane output.
@@ -23,20 +22,40 @@ This project presents a comprehensive data analysis on global methane emissions 
 
 ## 📁 Dataset
 
-- **Name:** IEA Methane Emissions Data
-- **Source:** [IEA.org](https://www.iea.org/)
-- **Format:** CSV
+- **Name:** IEA Methane Emissions Data  
+- **Source:** [IEA.org](https://www.iea.org/)  
+- **Format:** CSV  
 - **Fields:** region, country, type, segment, source, baseYear, emissions
 
 ---
 
 ## ⚙️ Tools & Libraries
 
-- `pandas` – for data manipulation and grouping
-- `numpy` – for numerical operations
-- `matplotlib` – for generating all visualizations
+- `pandas` – for data manipulation and grouping  
+- `numpy` – for numerical operations  
+- `matplotlib` – for generating all visualizations  
 
 ---
 
+## 📌 Sample Insights
 
+- Asia Pacific leads emissions in both **Energy** and **Agriculture**  
+- North America and Russia show high **Energy sector** emissions  
+- Waste-related emissions are prominent in **Europe** and **Asia**  
+- Emissions have been rising unevenly over the years  
 
+---
+
+## ✅ Suggested Mitigation Strategies
+
+- Implement methane leak detection in top emitting countries  
+- Promote landfill gas capture and improved waste management  
+- Encourage low-emission farming and livestock practices  
+- Upgrade oil and gas infrastructure, especially in older regions  
+
+---
+
+## 🧠 Author
+
+**Alsafa Sayyad**  
+*Data Science Enthusiast*
